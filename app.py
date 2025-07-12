@@ -10,3 +10,4 @@ st.markdown("*Streamlit* is **really** ***cool***.")
 
 
 st.metric(label="Temperature", value="70 °F")
+st.metric(label="Temperature", value="70 °F", delta="1.2 °F")
